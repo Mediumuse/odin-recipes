@@ -1,3 +1,3 @@
 # odin-recipes
 
-odin projec to build a basic website 
+odin project to build a basic website 
